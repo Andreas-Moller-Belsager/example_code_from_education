@@ -1,6 +1,6 @@
 # example_code_from_education
 
-generating_multiple_vector and simple_nb_100 are from the Bachelor's project on using simple models to predict languages and dialects when the data/corpus and target space is big
+´´´generating_multiple_vector´´´ and simple_nb_100 are from the Bachelor's project on using simple models to predict languages and dialects when the data/corpus and target space is big
 
 template_model is from an independent research project I did the semester before the Master's thesis (autumn 2023) on predicting MBTI personality types based on tweets. This uses Huggingface models.
 
